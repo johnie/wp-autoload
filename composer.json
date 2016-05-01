@@ -1,12 +1,12 @@
 {
-  "name": "frozzare/wp-autoload",
+  "name": "johnie/wp-autoload",
   "description": "Simple autoloader that will autoload classes or traits with namespace prefix",
   "keywords": ["wordpress", "autoload", "namespace"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Fredrik Forsmo",
-      "email": "fredrik.forsmo@gmail.com"
+      "name": "Johnie Hjelm",
+      "email": "johnie.hjelm@symbio.com"
     }
   ],
   "require": {
